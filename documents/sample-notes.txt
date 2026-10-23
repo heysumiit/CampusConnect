@@ -1,0 +1,11 @@
+CAMPUSCONNECT — SAMPLE STUDY RESOURCE
+
+This plain-text sample is included as a downloadable placeholder for the project demo.
+Replace it with your own notes or documents that you have permission to share.
+
+Suggested topics:
+- Data Structures: arrays, stacks, queues, linked lists
+- Physics: core concepts and formulas
+- Discrete Mathematics: logic, relations, graph theory
+- Operating Systems: processes, memory management, scheduling
+- Digital Electronics: logic gates and Boolean algebra
